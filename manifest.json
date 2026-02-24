@@ -1,94 +1,22 @@
 {
   "tracks": [
-    {
-      "name": "voice 001",
-      "file": "_3235911.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 002",
-      "file": "_3235913.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 003",
-      "file": "_3235914.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 004",
-      "file": "_3235916.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 005",
-      "file": "_3317834.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 006",
-      "file": "_3317835.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 007",
-      "file": "_3317836.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 008",
-      "file": "_3514372.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 009",
-      "file": "_3514373.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 010",
-      "file": "_3514377.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 011",
-      "file": "_3514433.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 012",
-      "file": "_3514434.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 013",
-      "file": "_3530785.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 014",
-      "file": "_3530786.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 015",
-      "file": "_3530789.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 016",
-      "file": "_3530793.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 017",
-      "file": "_3530795.m4a",
-      "duration": null
-    },
-    {
-      "name": "voice 018",
-      "file": "_3530798.m4a",
-      "duration": null
-    }
+    { "name": "voice 001", "file": "001.m4a", "duration": null },
+    { "name": "voice 002", "file": "002.m4a", "duration": null },
+    { "name": "voice 003", "file": "003.m4a", "duration": null },
+    { "name": "voice 004", "file": "004.m4a", "duration": null },
+    { "name": "voice 005", "file": "005.m4a", "duration": null },
+    { "name": "voice 006", "file": "006.m4a", "duration": null },
+    { "name": "voice 007", "file": "007.m4a", "duration": null },
+    { "name": "voice 008", "file": "008.m4a", "duration": null },
+    { "name": "voice 009", "file": "009.m4a", "duration": null },
+    { "name": "voice 010", "file": "010.m4a", "duration": null },
+    { "name": "voice 011", "file": "011.m4a", "duration": null },
+    { "name": "voice 012", "file": "012.m4a", "duration": null },
+    { "name": "voice 013", "file": "013.m4a", "duration": null },
+    { "name": "voice 014", "file": "014.m4a", "duration": null },
+    { "name": "voice 015", "file": "015.m4a", "duration": null },
+    { "name": "voice 016", "file": "016.m4a", "duration": null },
+    { "name": "voice 017", "file": "017.m4a", "duration": null },
+    { "name": "voice 018", "file": "018.m4a", "duration": null }
   ]
 }
