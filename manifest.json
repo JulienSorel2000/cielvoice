@@ -1,0 +1,14 @@
+{
+  "tracks": [
+    {
+      "name": "voice 001",
+      "file": "001.aac",
+      "duration": null
+    },
+    {
+      "name": "voice 002",
+      "file": "002.aac",
+      "duration": null
+    }
+  ]
+}
