@@ -17,40 +17,6 @@ voice-archive/
 
 ---
 
-## 第一次部署（一次性设置）
-
-### 第一步：创建 GitHub 账号
-去 https://github.com 注册账号，记住用户名
-
-### 第二步：创建仓库
-1. 登录后点右上角 **+** → **New repository**
-2. Repository name 填：`voice-archive`（或任何名字）
-3. 选 **Private**（这样只有你知道链接才能访问）
-4. 点 **Create repository**
-
-### 第三步：上传文件
-1. 点页面中央的 **uploading an existing file** 链接
-2. 把以下文件全部拖进去：
-   - `index.html`
-   - `manifest.json`
-3. 点 **Commit changes**
-
-### 第四步：创建 voices 文件夹并上传语音
-1. 点 **Add file** → **Upload files**
-2. 在上传前，先在文件名输入框里输入 `voices/` —— 这会创建文件夹
-3. 把你的 `.aac` 语音文件拖进来
-4. 点 **Commit changes**
-
-### 第五步：开启 GitHub Pages
-1. 进入仓库 → 点 **Settings**（设置）
-2. 左侧菜单找 **Pages**
-3. Source 选 **Deploy from a branch**
-4. Branch 选 **main**，文件夹选 **/ (root)**
-5. 点 **Save**
-6. 等 1-2 分钟，页面会显示你的网址：
-   `https://你的用户名.github.io/voice-archive/`
-
----
 
 ## 更新 manifest.json
 
